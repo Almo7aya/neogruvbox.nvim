@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: stylua
+        name: StyLua
+        language: rust
+        entry: stylua
+        types: [lua]
+        args: ["-"]
