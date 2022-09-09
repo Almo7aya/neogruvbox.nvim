@@ -51,7 +51,7 @@ Enable the colorscheme:
 vim.cmd[[colorscheme neogruvbox]]
 ```
 
-To enable neogruvbox on[LunarVim](https://github.com/LunarVim/LunarVim) 
+To enable neogruvbox on [LunarVim](https://github.com/LunarVim/LunarVim) 
 
 ```lua
 -- in config.lua
