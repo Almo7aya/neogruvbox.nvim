@@ -32,12 +32,12 @@ Plug 'almo7aya/neogruvbox.nvim', { 'branch': 'main' }
 use 'almo7aya/neogruvbox.nvim'
 ```
 
-Or with [LunarVim](https://github.com/LunarVim/LunarVim)
+I'm using [LunarVim](https://github.com/LunarVim/LunarVim) for my neovim setup
 
 ```lua
 lvim.plugins = {
 -- ...
-"almo7aya/neogruvbox.nvim"
+  { "almo7aya/neogruvbox.nvim" }
 -- ...
 }
 ```
