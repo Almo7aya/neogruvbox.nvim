@@ -4,7 +4,7 @@ A dark Neovim theme written in Lua and vimscript ported from the original [gruvb
 
 ## 🕶 Screenshots
 
-Using [LunarVim](https://github.com/LunarVim/LunarVim) configurations.
+I'm using [LunarVim](https://github.com/LunarVim/LunarVim) for my neovim setup
 
 ![image](https://user-images.githubusercontent.com/17254073/189288991-933da896-1fce-47a5-8815-55b0dabfaa1f.png)
 
@@ -31,10 +31,10 @@ Plug 'almo7aya/neogruvbox.nvim', { 'branch': 'main' }
 ```lua
 use 'almo7aya/neogruvbox.nvim'
 ```
-
-I'm using [LunarVim](https://github.com/LunarVim/LunarVim) for my neovim setup
+Using [LunarVim](https://github.com/LunarVim/LunarVim) builtin package manager
 
 ```lua
+-- in config.lua
 lvim.plugins = {
 -- ...
   { "almo7aya/neogruvbox.nvim" }
@@ -51,9 +51,10 @@ Enable the colorscheme:
 vim.cmd[[colorscheme neogruvbox]]
 ```
 
-To enable neogruvbox on LunarVim
+To enable neogruvbox on[LunarVim](https://github.com/LunarVim/LunarVim) 
 
 ```lua
+-- in config.lua
 lvim.colorscheme = "neogruvbox"
 ```
 
