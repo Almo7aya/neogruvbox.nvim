@@ -2,7 +2,7 @@
 
 A dark Neovim theme written in Lua and vimscript ported from the original [gruvbox](https://github.com/morhetz/gruvbox) theme. With support for LSP, Treesitter, git-diff, markdown, Notify, BufferLine, LuaLine, Telescope, and more.
 
-## Screenshots
+## 🕶 Screenshots
 
 Using [LunarVim](https://github.com/LunarVim/LunarVim) configurations.
 
@@ -57,6 +57,6 @@ To enable neogruvbox on LunarVim
 lvim.colorscheme = "neogruvbox"
 ```
 
-## Contribution
+## 💖 Contribution
 
 Your help is always welcomed to make this color-scheme the new gruvbox for neovim
