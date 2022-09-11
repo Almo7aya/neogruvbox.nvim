@@ -24,7 +24,7 @@ Install the theme with your preferred package manager:
 [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'almo7aya/neogruvbox.nvim', { 'branch': 'main' }
+Plug 'almo7aya/neogruvbox.nvim', { 'branch': 'master' }
 ```
 
 [packer](https://github.com/wbthomason/packer.nvim)
