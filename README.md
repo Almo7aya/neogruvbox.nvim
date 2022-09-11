@@ -8,9 +8,10 @@ I'm using [LunarVim](https://github.com/LunarVim/LunarVim) for my neovim setup
 
 ![image](https://user-images.githubusercontent.com/17254073/189288991-933da896-1fce-47a5-8815-55b0dabfaa1f.png)
 
-![image](https://user-images.githubusercontent.com/17254073/189288317-a50bfe33-26af-49b5-8099-a4678e4310f8.png)
+![image](https://user-images.githubusercontent.com/17254073/189507924-6a809da6-cea1-475c-8706-647fd6923c9d.png)
 
-![image](https://user-images.githubusercontent.com/17254073/189288740-169e29be-642e-496d-abd6-3c1a166469ce.png)
+![image](https://user-images.githubusercontent.com/17254073/189507923-7fcb868e-94cb-413d-9525-73769c720988.png)
+
 
 ## ⚡️ Requirements
 
