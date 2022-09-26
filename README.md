@@ -27,7 +27,7 @@ Install the theme with your preferred package manager:
 Plug 'almo7aya/neogruvbox.nvim', { 'branch': 'master' }
 ```
 
-[packer](https://github.com/wbthomason/packer.nvim)
+[packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ```lua
 use 'almo7aya/neogruvbox.nvim'
