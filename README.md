@@ -61,4 +61,4 @@ lvim.colorscheme = "neogruvbox"
 
 ## 💖 Contribution
 
-Your help is always welcomed to make this color-scheme the new gruvbox for neovim
+Your help is always welcomed to make this color-scheme the new gruvbox for neovim.
