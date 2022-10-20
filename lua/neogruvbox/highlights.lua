@@ -1,4 +1,6 @@
 local highlights = {
+  ActiveWindow = { bg = C.bg },
+  InactiveWindow = { bg = C.bg_inactive },
   Normal = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
   SignColumn = { bg = C.bg },
   MsgArea = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
@@ -19,7 +21,7 @@ local highlights = {
   LineNr = { fg = C.context },
   FloatBorder = { fg = C.gray, bg = C.alt_bg },
   Whitespace = { fg = C.gray },
-  VertSplit = { fg = C.bg, bg = C.fg },
+  VertSplit = { fg = C.cyan, bg = C.bg },
   CursorLine = { bg = C.dark },
   CursorColumn = { bg = C.dark },
   ColorColumn = { bg = C.dark },

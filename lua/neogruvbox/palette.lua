@@ -2,6 +2,7 @@ local colors = {
   none = "NONE",
   fg = "#ebdbb2",
   bg = "#282828",
+  bg_inactive = "#232323",
   alt_bg = "#232323",
   dark = "#26292a",
   accent = "#806969",
@@ -17,7 +18,7 @@ local colors = {
   dark_blue = "#353535",
   green = "#adb026",
   cyan = "#749689",
-  red = "#fb4934",
+  red = "#dc4934",
   orange = "#d65d0e",
   light_red = "#be5046",
   yellow = "#d79921",
@@ -37,8 +38,9 @@ local colors = {
   cyan_test = "#5d554e",
   ui_blue = "#504945",
   diff_add = "#303d27",
-  diff_delete = "#d3869b",
+  diff_delete = "#56141c",
   diff_change = "#83a598",
+  diff_text = "#dc4934",
 }
 
 return colors
