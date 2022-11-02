@@ -34,6 +34,8 @@ for _, skeleton in ipairs(skeletons) do
   util.initialise(skeleton)
 end
 
+require("neogruvbox.ts-fix")
+
 vim.api.nvim_create_augroup("WindowManagement", { clear = true })
 vim.api.nvim_create_autocmd("WinEnter", {
   command = "setlocal winhighlight=Normal:ActiveWindow,NormalNC:InactiveWindow",
