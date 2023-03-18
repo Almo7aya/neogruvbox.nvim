@@ -104,6 +104,7 @@ local highlights = {
   CmpItemAbbrMatchFuzzy = { fg = C.cyan, bg = C.none },
   CmpItemKind = { fg = C.blue, bg = C.none },
   CmpItemMenu = { fg = C.light_gray, bg = C.none },
+  StatusLine = { fg = C.fg, bg = C.none },
 }
 
 return highlights
