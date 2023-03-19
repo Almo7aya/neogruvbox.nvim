@@ -81,7 +81,7 @@ local LSP = {
   BufferInactiveMod = { fg = C.info_yellow, bg = C.alt_bg },
   BufferInactiveSign = { fg = C.gray, bg = C.alt_bg },
   BufferInactiveTarget = { fg = C.red, bg = C.alt_bg, style = "bold" },
-  StatusLine = { fg = C.alt_bg },
+  StatusLine = { fg = C.fg },
   StatusLineNC = { fg = C.alt_bg },
   StatusLineSeparator = { fg = C.alt_bg },
   StatusLineTerm = { fg = C.alt_bg },
